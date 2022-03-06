@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesgloseModenasBilletes.Android", "DesgloseModenasBilletes\DesgloseModenasBilletes.Android\DesgloseModenasBilletes.Android.csproj", "{DD460C24-3F18-4B83-BF16-7EB6E84E13B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesgloseModenasBilletes", "DesgloseModenasBilletes\DesgloseModenasBilletes\DesgloseModenasBilletes.csproj", "{10626760-D4F3-4ED4-821C-ABE4AE9F40DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD460C24-3F18-4B83-BF16-7EB6E84E13B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD460C24-3F18-4B83-BF16-7EB6E84E13B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD460C24-3F18-4B83-BF16-7EB6E84E13B4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DD460C24-3F18-4B83-BF16-7EB6E84E13B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD460C24-3F18-4B83-BF16-7EB6E84E13B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD460C24-3F18-4B83-BF16-7EB6E84E13B4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{10626760-D4F3-4ED4-821C-ABE4AE9F40DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10626760-D4F3-4ED4-821C-ABE4AE9F40DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10626760-D4F3-4ED4-821C-ABE4AE9F40DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10626760-D4F3-4ED4-821C-ABE4AE9F40DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF86037C-43A1-4C6B-943C-B1FDD4485F1E}
+	EndGlobalSection
+EndGlobal
